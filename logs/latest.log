@@ -1,0 +1,52 @@
+[00:23:20] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7193948ms behind, skipping 143878 tick(s)
+[02:24:06] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7195092ms behind, skipping 143901 tick(s)
+[04:13:24] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6505901ms behind, skipping 130118 tick(s)
+[06:14:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7193649ms behind, skipping 143872 tick(s)
+[07:00:00] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2697349ms behind, skipping 53946 tick(s)
+[08:26:52] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4314155ms behind, skipping 86283 tick(s)
+[08:27:23] [Netty Local Client IO #1/INFO] [EnderCore]: Reset configs to client values for com.enderio.core.common.config.ConfigHandler
+[08:27:23] [Netty Local Client IO #1/INFO] [Gliby's Voice Chat Mod]: Stopped Voice Client.
+[08:27:23] [Client thread/INFO] [toughasnails]: TAN configuration restored to local values
+[08:27:23] [Client thread/INFO] [STDOUT]: [xaero.common.XaeroMinimapSession:cleanup:67]: Minimap session finalized.
+[08:27:23] [Server thread/INFO] [STDOUT]: [lain.mods.cos.InventoryManager:onServerStopping:234]: Server is stopping... force saving all loaded CosmeticArmor data.
+[08:27:23] [Server thread/INFO] [STDOUT]: [lain.mods.cos.InventoryManager:onServerStopping:237]: a4686b5b-2f26-4015-887d-c42382f3f73d
+[08:27:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[08:27:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[08:27:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TristanPoland lost connection: Disconnected
+[08:27:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: TristanPoland left the game
+[08:27:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
+[08:27:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[08:27:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A Cruel World'/overworld
+[08:27:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A Cruel World'/pocket
+[08:27:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A Cruel World'/ExtraUtils2_Quarry_Dim
+[08:27:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A Cruel World'/Storage Cell
+[08:27:23] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[08:27:23] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 312
+[08:27:23] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -9999
+[08:27:23] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 2
+[08:27:23] [Server thread/INFO] [FML]: Unloading dimension 0
+[08:27:23] [Server thread/INFO] [FML]: Unloading dimension 312
+[08:27:23] [Server thread/INFO] [FML]: Unloading dimension -9999
+[08:27:23] [Server thread/INFO] [FML]: Unloading dimension 2
+[08:27:23] [Thread-223/WARN] [THAUMCRAFT]: No auras found!
+[08:27:23] [Thread-223/INFO] [THAUMCRAFT]: Stopping aura thread for dim 2
+[08:27:23] [Thread-222/WARN] [THAUMCRAFT]: No auras found!
+[08:27:23] [Thread-220/WARN] [THAUMCRAFT]: No auras found!
+[08:27:23] [Thread-222/INFO] [THAUMCRAFT]: Stopping aura thread for dim -9999
+[08:27:23] [Thread-216/WARN] [THAUMCRAFT]: No auras found!
+[08:27:23] [Thread-220/INFO] [THAUMCRAFT]: Stopping aura thread for dim 312
+[08:27:23] [Thread-216/INFO] [THAUMCRAFT]: Stopping aura thread for dim 0
+[08:27:26] [Server thread/INFO] [foamfix]: JEI search tree manager injection complete!
+[08:27:27] [Server thread/INFO] [FML]: Applying holder lookups
+[08:27:27] [Server thread/INFO] [FML]: Holder lookups applied
+[08:27:27] [Server thread/INFO] [STDOUT]: [exterminatorjeff.undergroundbiomes.intermod.OresRegistry:recheckPile:352]: Blocks queued for redo: 0
+[08:27:27] [Server thread/INFO] [undergroundbiomes]: [UndergroundBiomes] Server Stopped
+[08:27:33] [ReAuth-VersionChecker/INFO] [ReAuth]: Looking for Updates
+[08:27:33] [ReAuth-VersionChecker/INFO] [ReAuth]: Looking for Updates
+[08:27:33] [ReAuth-VersionChecker/INFO] [ReAuth]: Looking for Updates
+[08:27:34] [ReAuth-VersionChecker/INFO] [ReAuth]: Looking for Updates - Finished
+[08:27:34] [ReAuth-VersionChecker/INFO] [ReAuth]: Looking for Updates - Finished
+[08:27:34] [ReAuth-VersionChecker/INFO] [ReAuth]: Looking for Updates - Finished
+[08:27:37] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[08:27:37] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[08:27:37] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
