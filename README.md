@@ -21,7 +21,7 @@
 
 <hr />
 <h1 data-slate-node="element"><b><span style="font-size: 24px;"><strong>Trailer</strong>:</span></b></h1>
-<h1 data-slate-node="element"><iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/KcoT54nezEA?wmode=transparent" height="358" width="638"></iframe></h1>
+"https://www.youtube.com/embed/KcoT54nezEA?wmode=transparent
 
 <hr />
 <h1 data-slate-node="element"><span style="font-size: 24px;"><strong>Our Goals As Developers</strong></span><span style="font-size: 1.2rem;">&nbsp;</span></h1>
