@@ -68,9 +68,16 @@ customization {
 customization {
   identifier = %id=376382%
   orientation = mid-centered
-  x = -123
+  x = -124
   action = movebutton
-  y = 237
+  y = -8
+}
+
+customization {
+  identifier = %id=376382%
+  width = 19
+  action = resizebutton
+  height = 18
 }
 
 customization {
@@ -165,12 +172,12 @@ customization {
 customization {
   path = resources/overlay.png
   orientation = mid-right
-  x = -120
+  x = -118
   width = 122
   actionid = 3c325eb5-81ed-4782-8bdc-e47e3b3012cc1629992052347
   action = addtexture
-  y = -100
-  height = 200
+  y = -98
+  height = 241
 }
 
 customization {
@@ -197,7 +204,7 @@ customization {
   scale = 1.0
   fadein = true
   fadeinspeed = 1.0
-  x = -97
+  x = -99
   actionid = 1027cf2f-1e1d-400c-9a9e-beb79d4c44821629035949869
   action = addtext
   y = -32
@@ -214,7 +221,7 @@ customization {
   scale = 1.0
   fadein = true
   fadeinspeed = 1.0
-  x = -95
+  x = -71
   actionid = 40e426c7-ce69-4544-818e-26e0bfe57a4f1629035949870
   action = addtext
   y = -65
@@ -231,11 +238,11 @@ customization {
   label = Developers
   fadein = true
   fadeinspeed = 1.0
-  x = -110
+  x = -108
   width = 100
-  actionid = 4f9d9c85-d38e-4b25-98c4-9617727a68ce1630165830856
+  actionid = 09055bdb-5a8a-4996-97fd-0e6f68c8a3a71645563907553
   action = addbutton
-  y = 50
+  y = 95
   delayappearance = true
   value = Credits
   delayappearanceeverytime = false
@@ -249,10 +256,10 @@ customization {
   scale = 1.0
   fadein = true
   fadeinspeed = 1.0
-  x = -97
+  x = -57
   actionid = 1c9973d2-997a-4700-b7a1-7e5a5c3f488b1629035949884
   action = addtext
-  y = -3
+  y = -2
   delayappearance = true
   alignment = left
   value = Wrytzi
@@ -262,7 +269,7 @@ customization {
 customization {
   orientation = bottom-left
   shadow = false
-  x = 3
+  x = 4
   actionid = 164c3e2e-7fab-4c4f-8361-3560b721f1361629035949884
   action = addtext
   y = -19
@@ -281,11 +288,11 @@ customization {
   fadeinspeed = 1.0
   x = 2
   width = 98
-  actionid = d3ee7391-f0ae-433f-a710-67c57351ddf01630165830856
+  actionid = 52bd7b79-d7ae-4407-b513-f536ce3978281645563907554
   action = addbutton
   y = 14
   delayappearance = true
-  value = https://gameplex-software.github.io/sites/cws/docs
+  value = https://gameplex-software.github.io/cwsmc/docs
   delayappearanceeverytime = false
   height = 20
 }
@@ -299,9 +306,9 @@ customization {
   fadeinspeed = 1.0
   x = -99
   width = 98
-  actionid = b4963d8c-d2c4-4ef2-b4b5-c008495746fe1630165830857
+  actionid = 97b6846e-dcb8-49d4-ab1c-334a48d981171645563907554
   action = addbutton
-  y = -52
+  y = -28
   delayappearance = true
   value = https://discord.gg/kyRH3zfDa7
   delayappearanceeverytime = false
@@ -317,9 +324,9 @@ customization {
   fadeinspeed = 1.0
   x = 3
   width = 98
-  actionid = c337f845-7da1-4c96-815a-e9a0e9d0ebd91630165830857
+  actionid = 86dce786-998a-42e3-a231-7d3b872659a61645563907554
   action = addbutton
-  y = -52
+  y = -28
   delayappearance = true
   value = https://www.curseforge.com/linkout?remoteUrl=https%253a%252f%252fphotos.app.goo.gl%252fC5noa5aWwPJGdsvcA
   delayappearanceeverytime = false
@@ -335,11 +342,11 @@ customization {
   fadeinspeed = 1.0
   x = -99
   width = 98
-  actionid = dfd89faf-050c-4c28-952f-16ee5af7f9b71630165830857
+  actionid = ada4913e-37cc-486c-9d85-98aa0c2ac2321645563907554
   action = addbutton
-  y = -75
+  y = -51
   delayappearance = true
-  value = https://gameplex-software.github.io/sites/cws/status
+  value = https://gameplex-software.github.io/cwsmc/status
   delayappearanceeverytime = false
   height = 20
 }
@@ -353,9 +360,9 @@ customization {
   fadeinspeed = 1.0
   x = 3
   width = 98
-  actionid = 31e9357c-17ae-40e4-b638-7cb6b470473c1630165830857
+  actionid = 80306d00-883f-4603-865f-4a94a27473f71645563907554
   action = addbutton
-  y = -75
+  y = -51
   delayappearance = true
   value = GUICommunityCreations
   delayappearanceeverytime = false
@@ -399,12 +406,12 @@ customization {
 }
 
 customization {
-  orientation = top-left
+  orientation = bottom-left
   shadow = false
   x = 4
   actionid = 07bd931b-df1f-46c7-9aa4-8541f3f0d74b1629035949886
   action = addtext
-  y = 559
+  y = -40
   scale = 1.0
   alignment = left
   value = Cruel World version 20.0.0 (6mo edition)
@@ -417,10 +424,10 @@ customization {
   scale = 1.0
   fadein = true
   fadeinspeed = 1.0
-  x = -96
+  x = -79
   actionid = 04bd8965-4204-4c0b-804d-5588cd83a6121629035949886
   action = addtext
-  y = 30
+  y = 29
   delayappearance = true
   alignment = left
   value = imaphoenix
@@ -434,11 +441,11 @@ customization {
   label = Credits
   fadein = true
   fadeinspeed = 1.0
-  x = -110
+  x = -108
   width = 100
-  actionid = 52d32bee-1928-4144-864f-f09c95173c8e1630165830858
+  actionid = ecd6d03f-6272-459f-95bf-83eb6d9063b61645563907555
   action = addbutton
-  y = 73
+  y = 118
   delayappearance = true
   value = Thanks
   delayappearanceeverytime = false
@@ -452,10 +459,10 @@ customization {
   scale = 15
   showname = false
   crouching = false
-  x = -108
+  x = -16
   actionid = 6b5e2c82-7257-44b7-ae4c-0a5636dcef411629139193929
   action = addentity
-  y = -46
+  y = -48
   delayappearance = true
   playername = LiquidTea
   parrot = false
@@ -469,29 +476,12 @@ customization {
   scale = 15
   showname = false
   crouching = false
-  x = -108
+  x = -16
   actionid = 0ca7fee9-8edf-4a14-90da-7d3b4c1b44051629139195840
   action = addentity
-  y = 48
+  y = 47
   delayappearance = true
   playername = imaphoenix
-  parrot = false
-  delayappearanceeverytime = false
-}
-
-customization {
-  orientation = mid-right
-  delayappearanceseconds = 1.2
-  slim = false
-  scale = 15
-  showname = false
-  crouching = false
-  x = -108
-  actionid = 0ca7fee9-8edf-4a14-90da-7d3b4c1b44051629139195840
-  action = addentity
-  y = 16
-  delayappearance = true
-  playername = Writzi
   parrot = false
   delayappearanceeverytime = false
 }
@@ -530,16 +520,16 @@ customization {
 customization {
   orientation = mid-right
   delayappearanceseconds = 1.2
-  slim = true
+  slim = false
   scale = 15
   showname = false
   crouching = false
-  x = -108
+  x = -15
   actionid = 6b5e2c82-7257-44b7-ae4c-0a5636dcef411629139193929
   action = addentity
-  y = -14
+  y = -18
   delayappearance = true
-  playername = TristanPoland
+  playername = Trident_For_U
   parrot = false
   delayappearanceeverytime = false
 }
@@ -547,7 +537,7 @@ customization {
 customization {
   orientation = bottom-left
   shadow = false
-  x = 3
+  x = 4
   actionid = d5906019-8d78-43ec-83cb-167cec607a9e1630066340818
   action = addtext
   y = -9
@@ -559,7 +549,7 @@ customization {
 customization {
   orientation = bottom-left
   shadow = false
-  x = 5
+  x = 4
   actionid = 5c3d51bd-364c-4961-8289-ab8149a71d531630066492357
   action = addtext
   y = -76
@@ -588,9 +578,9 @@ customization {
   fadeinspeed = 1.0
   x = -99
   width = 200
-  actionid = 21ce88ec-a808-4a7c-953a-a4290d791daa1630165830861
+  actionid = e42e5482-a2b9-4c59-9c85-f3c7d7a958ab1645563907556
   action = addbutton
-  y = -98
+  y = -74
   delayappearance = true
   value = announcements
   delayappearanceeverytime = false
@@ -598,20 +588,50 @@ customization {
 }
 
 customization {
-  orientation = bottom-centered
-  delayappearanceseconds = 2.3
-  buttonaction = opencustomgui
-  label = Top Patrons
+  orientation = mid-right
+  delayappearanceseconds = 1.2
+  slim = true
+  scale = 15
+  showname = false
+  crouching = false
+  x = -14
+  actionid = 0ca7fee9-8edf-4a14-90da-7d3b4c1b44051629139195840
+  action = addentity
+  y = 14
+  delayappearance = true
+  playername = Wrytzi
+  parrot = false
+  delayappearanceeverytime = false
+}
+
+customization {
+  orientation = mid-right
+  shadow = false
+  delayappearanceseconds = 1.2
+  scale = 1.0
   fadein = true
   fadeinspeed = 1.0
-  x = -99
-  width = 200
-  actionid = bfab46ff-e598-43ac-bc63-3d6d0c1faa631630165830861
-  action = addbutton
-  y = -29
+  x = -90
+  actionid = 04bd8965-4204-4c0b-804d-5588cd83a6121629035949886
+  action = addtext
+  y = 63
   delayappearance = true
-  value = Top-Patrons
+  alignment = left
+  value = WilliamAnimate
   delayappearanceeverytime = false
-  height = 20
+}
+
+customization {
+  showname = true
+  orientation = top-left
+  skinpath = resources/creators/will.png
+  crouching = false
+  x = 1604
+  slim = false
+  actionid = 3d73718a-8dca-4253-a0c6-8d541e6608d21645563915073
+  action = addentity
+  y = 591
+  scale = 15
+  parrot = false
 }
 

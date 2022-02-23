@@ -9,6 +9,17 @@ customization-meta {
 }
 
 customization {
+  path = resources/overlay.png
+  orientation = mid-centered
+  x = -200
+  width = 401
+  actionid = d61b22fd-8840-4d96-9b98-bb7a2c3c5ff71644320745312
+  action = addtexture
+  y = -142
+  height = 285
+}
+
+customization {
   path = resources/mainmenu/textures/title.png
   orientation = top-centered
   x = -126
@@ -32,20 +43,9 @@ customization {
 }
 
 customization {
-  path = resources/minecraft-make-book-and-quill-step-1.png
-  orientation = mid-centered
-  x = -144
-  width = 289
-  actionid = c3a542ba-62ca-4426-aa7c-9f16e9eca56a1629138876058
-  action = addtexture
-  y = -136
-  height = 272
-}
-
-customization {
   path = resources/creators/liquidtea.png
   orientation = mid-centered
-  x = -137
+  x = -186
   width = 20
   actionid = 1ad1a999-deeb-4db4-b4aa-c8b99171307b1629138876059
   action = addtexture
@@ -56,7 +56,7 @@ customization {
 customization {
   path = resources/creators/tristanpoland.png
   orientation = mid-centered
-  x = -137
+  x = -186
   width = 20
   actionid = 013d025e-7367-4ad3-9f86-823435254f0d1629138876060
   action = addtexture
@@ -67,31 +67,19 @@ customization {
 customization {
   orientation = mid-centered
   shadow = false
-  x = -114
+  x = -157
   actionid = fb95a547-636e-4cd5-9265-b9a575eafbff1629138876060
   action = addtext
-  y = -117
+  y = -124
   scale = 1.0
   alignment = left
-  value = LiquidTea – Project owner
-}
-
-customization {
-  orientation = mid-centered
-  shadow = false
-  x = -115
-  actionid = 569f153c-d371-487c-959c-e4c11d8a71a11629138876060
-  action = addtext
-  y = -73
-  scale = 1.0
-  alignment = left
-  value = Tristan Poland – Menu designer / website manager
+  value = LiquidTea – Founder
 }
 
 customization {
   path = resources/creators/wrytzi.png
   orientation = mid-centered
-  x = -137
+  x = -186
   width = 20
   actionid = 0edf9a15-0fed-4aff-943a-da0fcb7760e51629138876061
   action = addtexture
@@ -102,10 +90,10 @@ customization {
 customization {
   orientation = mid-centered
   shadow = false
-  x = -114
+  x = -156
   actionid = a44a7afb-0cd5-4ca8-864d-64a2762ff00a1629138876061
   action = addtext
-  y = -27
+  y = -32
   scale = 1.0
   alignment = left
   value = Wrytzi – Mod Researcher
@@ -114,11 +102,11 @@ customization {
 customization {
   orientation = mid-centered
   buttonaction = opencustomgui
-  x = -112
+  x = -156
   width = 69
-  actionid = c78a5379-dd5b-4d31-b793-44d84bfa05ef1629141896430
+  actionid = 3cde4203-95bd-40b2-8284-ea2efe88a97e1645565957585
   action = addbutton
-  y = -55
+  y = -66
   label = About
   value = about_tristanpoland
   height = 20
@@ -127,11 +115,11 @@ customization {
 customization {
   orientation = mid-centered
   buttonaction = openlink
-  x = -40
+  x = -83
   width = 69
-  actionid = ca9911f1-349f-48cd-95e0-243ab9a3eaa31629141896430
+  actionid = 858a81e7-a4bd-4b2e-9868-ea71ef85ed831645565957586
   action = addbutton
-  y = -55
+  y = -66
   label = Website
   value = https://tristanpoland.github.io
   height = 20
@@ -140,11 +128,11 @@ customization {
 customization {
   orientation = mid-centered
   buttonaction = opencustomgui
-  x = -112
+  x = -157
   width = 69
-  actionid = 78848886-8c92-4906-96c1-ef47278e30f01629141896431
+  actionid = 260dfc9c-804b-44f0-96a9-e579171800fd1645565957587
   action = addbutton
-  y = -101
+  y = -113
   label = About
   value = about_liquidtea
   height = 20
@@ -153,37 +141,37 @@ customization {
 customization {
   orientation = mid-centered
   buttonaction = openlink
-  x = 32
+  x = -10
   width = 69
-  actionid = 254ac0a0-6440-487b-a0d0-a91193c23d6b1629141896431
+  actionid = 457614ad-a192-47a3-8e1a-686256dd85071645565957588
   action = addbutton
-  y = -55
+  y = -66
   label = Twitter
   value = https://twitter.com/codingwithtj
   height = 20
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   buttonaction = opencustomgui
-  x = 368
+  x = -83
   width = 69
-  actionid = ab54ac5e-f96b-430a-9ee3-cd70273565241629141896431
+  actionid = 0fcac29f-a546-45ee-8671-5fe6de5815cd1645565957588
   action = addbutton
-  y = 292
+  y = -21
   label = About
   value = about_wrytzi
-  height = 20
+  height = 19
 }
 
 customization {
   orientation = top-left
   buttonaction = openlink
-  x = 440
+  x = 468
   width = 69
-  actionid = 8ed2f9af-779b-4e83-a9bb-1aa0fa35a7f91629141896431
+  actionid = f454a476-5083-47af-a5e4-d1342d0eaf741645565957589
   action = addbutton
-  y = 199
+  y = 188
   label = Twitch
   value = https://www.twitch.tv/liquiidtea
   height = 20
@@ -192,20 +180,20 @@ customization {
 customization {
   orientation = mid-centered
   buttonaction = openlink
-  x = -40
+  x = -156
   width = 69
-  actionid = b3908802-c3d7-4766-ab99-0250c59770d61629141896432
+  actionid = 44ec5c7f-7d50-4622-80d5-a64daf3383591645565957589
   action = addbutton
-  y = -8
+  y = -21
   label = Twitch
   value = https://www.twitch.tv/wrytzi
-  height = 20
+  height = 19
 }
 
 customization {
   path = resources/creators/imaphoenix.png
   orientation = mid-centered
-  x = -137
+  x = -186
   width = 20
   actionid = a5c12fc7-a619-4ae0-9c71-06aadbea82981629138876064
   action = addtexture
@@ -216,10 +204,10 @@ customization {
 customization {
   orientation = mid-centered
   shadow = false
-  x = -112
+  x = -155
   actionid = f6282fbb-6a9f-4a76-b1f3-dbe5cad504951629138876065
   action = addtext
-  y = 24
+  y = 17
   scale = 1.0
   alignment = left
   value = ImaPhoenix – Mod Researcher
@@ -228,11 +216,11 @@ customization {
 customization {
   orientation = mid-centered
   buttonaction = opencustomgui
-  x = -112
+  x = -156
   width = 69
-  actionid = dcb61492-508f-4cf1-ba90-de53c80fc7721629141896433
+  actionid = 49f440ca-b581-43e4-a3c0-4e6defc3a3161645565957591
   action = addbutton
-  y = 39
+  y = 27
   label = About
   value = about_imaphoenix
   height = 20
@@ -240,10 +228,10 @@ customization {
 
 customization {
   orientation = mid-centered
-  buttonaction = opengui
+  buttonaction = closegui
   x = -100
   width = 201
-  actionid = d81fa595-be1f-40e3-8b8f-3771a3e57af21629141896433
+  actionid = 3b9baf90-3d0f-4d44-8e61-e9e58f2163661645565957591
   action = addbutton
   y = 110
   label = Back
@@ -263,5 +251,51 @@ customization {
   scale = 30
   playername = %playername%
   parrot = false
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = -158
+  actionid = fb95a547-636e-4cd5-9265-b9a575eafbff1629138876060
+  action = addtext
+  y = -78
+  scale = 1.0
+  alignment = left
+  value = Trident_For_U - Owner
+}
+
+customization {
+  path = resources/creators/willface.png
+  orientation = bottom-centered
+  x = -186
+  width = 21
+  actionid = 108c6f80-a9ec-46eb-9e6a-98508fad958f1645564983380
+  action = addtexture
+  y = -191
+  height = 21
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = -156
+  actionid = 23b12b7c-87df-4af9-b04e-849b00fb9cff1645565087672
+  action = addtext
+  y = 65
+  scale = 1.0
+  alignment = left
+  value = WilliamAnimate - Artist and Developer
+}
+
+customization {
+  path = resources/creators/gxfulllogonoshadow.png
+  orientation = bottom-centered
+  x = -63
+  width = 126
+  actionid = 54c9d094-cb4c-4eb3-bcb6-5850fd3ee2731645565172114
+  action = addtexture
+  y = -21
+  height = 18
 }
 

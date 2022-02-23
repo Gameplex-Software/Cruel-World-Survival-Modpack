@@ -13,7 +13,7 @@ customization {
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = -64
+  y = -65
 }
 
 customization {
@@ -71,7 +71,7 @@ customization {
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = 31
+  y = 55
 }
 
 customization {
@@ -91,30 +91,30 @@ customization {
 customization {
   path = resources/overlay.png
   orientation = bottom-centered
-  x = -79
-  width = 162
+  x = -96
+  width = 192
   actionid = f8ba80fc-13e2-4f12-b720-c0c202e4b7541630098496551
   action = addtexture
-  y = -40
+  y = -41
   height = 41
 }
 
 customization {
   orientation = bottom-centered
   shadow = false
-  x = -33
+  x = -51
   actionid = be85cc22-56a7-4192-a00f-d4c443b454301630098745325
   action = addtext
   y = -26
   scale = 1.0
   alignment = left
-  value = https://cwsmc.github.io
+  value = https://gameplex-software.
 }
 
 customization {
   orientation = bottom-centered
   shadow = false
-  x = -23
+  x = -28
   actionid = 0093390e-b63d-42ba-b168-715b204a3f041630151701838
   action = addtext
   y = -38
@@ -126,11 +126,36 @@ customization {
 customization {
   path = resources/cwslogo.png
   orientation = bottom-centered
-  x = -75
+  x = -93
   width = 35
   actionid = 6cd49663-7657-47b8-a4ab-c29f93dbbf461630500766916
   action = addtexture
-  y = -36
+  y = -38
   height = 35
+}
+
+customization {
+  orientation = bottom-centered
+  shadow = false
+  x = -51
+  actionid = 8521c0d7-0068-4a0a-920e-40c6cb8d36d91645557433014
+  action = addtext
+  y = -16
+  scale = 1.0
+  alignment = left
+  value = github.io/cwsmc
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = opencustomgui
+  x = -100
+  width = 200
+  actionid = 98d026ce-82e2-4bcc-9b32-e709d5f2a5541645565764279
+  action = addbutton
+  y = 31
+  label = Developers
+  value = Credits
+  height = 20
 }
 

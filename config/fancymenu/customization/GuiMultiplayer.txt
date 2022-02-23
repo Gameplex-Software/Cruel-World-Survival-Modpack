@@ -8,17 +8,3 @@ customization-meta {
   randomonlyfirsttime = false
 }
 
-customization {
-  showname = false
-  orientation = bottom-left
-  crouching = false
-  x = 25
-  slim = false
-  actionid = 3c9fea5d-b2c5-430a-a590-5ee289595cea1629141312027
-  action = addentity
-  y = -9
-  scale = 30
-  playername = %playername%
-  parrot = false
-}
-
