@@ -1,5 +1,5 @@
 #CONFIG ONLY OPTIONS
-ignoreUpdate:309
+ignoreUpdate:321
 updateNotification:true
 settingsButton:false
 allowWrongWorldTeleportation:false
@@ -7,7 +7,7 @@ differentiateByServerAddress:true
 debugEntityIcons:false
 debugEntityVariantIds:false
 #INGAME SETTINGS (DO NOT EDIT!)
-minimap:true
+minimap:false
 caveMaps:3
 caveZoom:1
 showPlayers:false
