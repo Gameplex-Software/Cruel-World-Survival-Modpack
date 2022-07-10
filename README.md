@@ -9,8 +9,6 @@ Join the discord server for further info, and to talk with the devs and the comm
 
 [[Official Website]](https://gameplex-software.github.io/cwsmc)
 
-<span style="font-size: 10px;">[![](https://i.ibb.co/d56ggdN/331c39c9-7fd0-487f-90d5-6c91d5a770f3.png)](https://discord.gg/4rckB2pr2D)[![](https://i.ibb.co/q5M7wc8/ce3c38f5-2588-4656-bf71-afa47ff5695c.png)](https://photos.app.goo.gl/C5noa5aWwPJGdsvcA)  
-</span>
 
 ## Create your own server
 
@@ -22,7 +20,7 @@ Three brand new story packs are in progress, go take a look at our website:
 
  [https://gameplexsoftware.com/cwsmc/storymode](https://gameplexsoftware.com/cwsmc/storymode)[  
 
-![](https://i.ibb.co/d56ggdN/331c39c9-7fd0-487f-90d5-6c91d5a770f3.png)](https://discord.gg/4rckB2pr2D)
+[Join Discord](https://discord.gg/4rckB2pr2D)
 
 
 # **<span style="font-size: 24px;">**Trailer**:</span>**
