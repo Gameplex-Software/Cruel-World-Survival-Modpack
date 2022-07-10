@@ -2,7 +2,6 @@
 
 ![](https://user-images.githubusercontent.com/34868944/151664875-951d4348-a898-44a7-87ab-717cd8e91570.png)
 
-<span style="font-size: 24px;">**![](https://i.ibb.co/3FnH1k0/Screen-Shot-2021-07-15-at-5-26-07-PM.png)**</span>
 
 <span data-slate-node="text">Cruel World Survival is a survival/apocalypse based mod pack that focuses on a virus which was released during a conflict between nations, the virus has spread uncontrollably ever since. This pack is for EXPERIENCED PLAYERS, there is no active questing system to guide you through the pack, you have to figure it out all alone, just like you would in a real apocalypse. You and other players (as well as a population of rare NPCs spread throughout the planet) are immune to the virus but constantly assaulted by the new, hostile earth. It is your job to try to repopulate the earth and start society anew (More information in the "how to play" section).</span>
 
@@ -25,13 +24,11 @@ Three brand new story packs are in progress, go take a look at our website:
 
 ![](https://i.ibb.co/d56ggdN/331c39c9-7fd0-487f-90d5-6c91d5a770f3.png)](https://discord.gg/4rckB2pr2D)
 
-* * *
 
 # **<span style="font-size: 24px;">**Trailer**:</span>**
 
 # <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/KcoT54nezEA?wmode=transparent" height="358" width="638"></iframe>
 
-* * *
 
 # <span style="font-size: 24px;">**Our Goals As Developers**</span><span style="font-size: 1.2rem;"> </span>
 
@@ -44,7 +41,6 @@ As the Cruel World Survival Development team, our goals are as follows:
 
 [<span style="color: #000000;">![](https://i.ibb.co/kK4vs15/Screen-Shot-2021-07-12-at-2-04-01-PM.png)</span>](hrrps://gdevs.io "GDLauncher")
 
-* * *
 
 ### **Object of the game:**
 
