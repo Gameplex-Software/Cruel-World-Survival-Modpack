@@ -8,7 +8,7 @@
 
 Join the discord server for further info, and to talk with the devs and the community!
 
-[[Official Website]](https://gameplex-software.github.io/cwsmc)
+[[Official Website]](https://gameplexsoftware.com/cwsmc)
 
 
 ## Create your own server
