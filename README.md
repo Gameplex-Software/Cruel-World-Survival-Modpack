@@ -18,14 +18,13 @@ The server pack for this project is available through GitHub at [https://github
 
 Three brand new story packs are in progress, go take a look at our website:
 
- [https://gameplexsoftware.com/cwsmc/storymode](https://gameplexsoftware.com/cwsmc/storymode)[  
+ [https://gameplexsoftware.com/cwsmc/storymode](https://gameplexsoftware.com/cwsmc/storymode)
 
 [Join Discord](https://discord.gg/4rckB2pr2D)
 
 
 # **<span style="font-size: 24px;">**Trailer**:</span>**
 
-# <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/KcoT54nezEA?wmode=transparent" height="358" width="638"></iframe>
 
 
 # <span style="font-size: 24px;">**Our Goals As Developers**</span><span style="font-size: 1.2rem;"> </span>
@@ -37,8 +36,9 @@ As the Cruel World Survival Development team, our goals are as follows:
 *   Make a mod pack that performs as well as is possible.
 *   Create a welcoming and friendly community.
 
-[<span style="color: #000000;">![](https://i.ibb.co/kK4vs15/Screen-Shot-2021-07-12-at-2-04-01-PM.png)</span>](hrrps://gdevs.io "GDLauncher")
+# Trailer:
 
+[![Trailer here](http://img.youtube.com/vi/KcoT54nezEA/0.jpg)](http://www.youtube.com/watch?v=KcoT54nezEA "Cruel World Survival trialer")
 
 ### **Object of the game:**
 
