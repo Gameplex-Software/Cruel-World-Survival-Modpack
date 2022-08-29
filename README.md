@@ -4,7 +4,13 @@
 
 ![CWS Header](https://user-images.githubusercontent.com/34868944/178153760-8e94d8ae-a965-46e5-a0d9-5191e4e00839.png)
 
+## About Cruel World
+
 <span data-slate-node="text">Cruel World Survival is a survival/apocalypse based mod pack that focuses on a virus which was released during a conflict between nations, the virus has spread uncontrollably ever since. This pack is for EXPERIENCED PLAYERS, there is no active questing system to guide you through the pack, you have to figure it out all alone, just like you would in a real apocalypse. You and other players (as well as a population of rare NPCs spread throughout the planet) are immune to the virus but constantly assaulted by the new, hostile earth. It is your job to try to repopulate the earth and start society anew (More information in the "how to play" section).</span>
+
+## Backstory
+
+<span data-slate-node="text">Global warming had become a major issue on Earth and in desperation an organization known only as district lab 735 based in what what the old the United States created a bio-weapon designed for a worst case scenario. It was designed to kill all organisms it came into contact with immediately and painlessly, but something goes wrong. Late one night an unidentified individual broke into the bio-agent storage facility and stole a sample of the bio-agent. Over the course of several weeks it is believed to have been modified for a more sinister purpose, the agent now slowly kills the host, and once it succeeds it takes over, mutating the bodies of the infected. The agent was eventually released and spread like wildfire; quickly infecting creatures around the world. You are part of an extremely rare population of the human race. You are immune to this virus, but can still spread it and you now need to survive a world where bloodthirsty monsters rule and kill. </span>
 
 Join the discord server for further info, and to talk with the devs and the community!
 
@@ -17,7 +23,7 @@ The server pack for this project is available through GitHub at [https://github.
 
 ## Story mode
 
-Three brand new story packs are in progress, go take a look at our website:
+Three brand new story packs are in progress, these take the backstory of Cruel World Survival to the next level. Go take a look at our website for further details on these packs:
 
  [https://gameplexsoftware.com/cwsmc/storymode](https://gameplexsoftware.com/cwsmc/storymode)
 
