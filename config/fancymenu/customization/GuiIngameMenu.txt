@@ -27,7 +27,7 @@ customization {
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = 7
+  y = 1
 }
 
 customization {
@@ -41,7 +41,7 @@ customization {
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = -17
+  y = -21
 }
 
 customization {
@@ -55,7 +55,7 @@ customization {
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = -41
+  y = -43
 }
 
 customization {
@@ -63,7 +63,7 @@ customization {
   orientation = mid-centered
   x = 2
   action = movebutton
-  y = -41
+  y = -43
 }
 
 customization {
@@ -71,7 +71,7 @@ customization {
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = 55
+  y = 45
 }
 
 customization {
@@ -79,7 +79,7 @@ customization {
   orientation = mid-centered
   x = 2
   action = movebutton
-  y = 7
+  y = 1
 }
 
 customization {
@@ -151,9 +151,9 @@ customization {
   buttonaction = opencustomgui
   x = -100
   width = 200
-  actionid = 98d026ce-82e2-4bcc-9b32-e709d5f2a5541645565764279
+  actionid = d891d476-d14e-4f51-8cf2-9c9af80d3e141645590886786
   action = addbutton
-  y = 31
+  y = 23
   label = Developers
   value = Credits
   height = 20
