@@ -1,8 +1,6 @@
  ### Credit for the mods in this repo
 Credit for the mods in this repository can be found on the curseforge page for this project under the "Relations" tab, this repository is not an attempt to redistribute those mods. This repo is for development, and testing purposes only, all credit for the mods contained in this repo go to the original authors of those mods.
 
- <span style="font-size: 24px;">**About Cruel World Survival**</span>
-
 ![](https://user-images.githubusercontent.com/34868944/151664875-951d4348-a898-44a7-87ab-717cd8e91570.png)
 
 ![CWS Header](https://user-images.githubusercontent.com/34868944/178153760-8e94d8ae-a965-46e5-a0d9-5191e4e00839.png)
