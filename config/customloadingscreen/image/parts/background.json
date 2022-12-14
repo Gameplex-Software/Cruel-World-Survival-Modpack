@@ -1,0 +1,20 @@
+
+{
+    "parent": "builtin/image",
+    "image": "config:textures/cwsbg.png",
+    "position_type": "CENTER",
+    "offset_pos": "CENTER",
+    "colour": "0xFF_80_80_80",
+    "position": {
+      "x": "0",
+      "y": "0",
+      "width": "screen_width",
+      "height": "screen_height"
+    },
+    "texture": {
+      "x": "0",
+      "y": "0",
+      "width": 1,
+      "height": 1
+    }
+  }

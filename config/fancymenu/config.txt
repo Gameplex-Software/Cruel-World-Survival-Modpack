@@ -30,17 +30,6 @@ B:hiderealmsnotifications = 'true';
 B:hideforgenotifications = 'false';
 
 
-##[mainmenu_splash]
-
-S:splashcolor = '#ffff00';
-I:splashrotation = '-20';
-I:splashy = '0';
-I:splashx = '0';
-B:hidesplashtext = 'true';
-S:splashtextfile = '';
-S:splashorientation = 'original';
-
-
 ##[loading]
 
 B:allowgameintroskip = 'true';
@@ -69,3 +58,14 @@ B:showvanillamovewarning = 'false';
 ##[ui]
 
 F:uiscale = '2.0';
+
+
+##[mainmenu_splash]
+
+S:splashcolor = '#ffff00';
+I:splashrotation = '-20';
+I:splashy = '0';
+I:splashx = '0';
+B:hidesplashtext = 'false';
+S:splashtextfile = '';
+S:splashorientation = 'original';
