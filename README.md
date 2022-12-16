@@ -7,6 +7,9 @@ Credit for the mods in this repository can be found on the curseforge page for t
 
 # Cruel World Survival Lite
 
+## What is Cruel World Survival Lite?
+Cruel World Survival Lite is an alternative version of CWS for larger servers that need performance, this version includes extra optimizations that may affect quality of gameplay occasionally, and removes several less nessesary mods.
+
 ## About Cruel World
 
 <span data-slate-node="text">Cruel World Survival is a survival/apocalypse based mod pack that focuses on a virus which was released during a conflict between nations, the virus has spread uncontrollably ever since. This pack is for EXPERIENCED PLAYERS, there is no active questing system to guide you through the pack, you have to figure it out all alone, just like you would in a real apocalypse. You and other players (as well as a population of rare NPCs spread throughout the planet) are immune to the virus but constantly assaulted by the new, hostile earth. It is your job to try to repopulate the earth and start society anew (More information in the "how to play" section).</span>
