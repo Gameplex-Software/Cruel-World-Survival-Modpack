@@ -240,7 +240,7 @@ customization {
   fadeinspeed = 1.0
   x = -108
   width = 100
-  actionid = b8a7e276-913a-46d3-91a3-f686aedb3db91671224318076
+  actionid = bc612bee-7887-4237-9a88-b5a624a7a61a1671226970556
   action = addbutton
   y = 95
   delayappearance = true
@@ -288,7 +288,7 @@ customization {
   fadeinspeed = 1.0
   x = 2
   width = 98
-  actionid = 962082e0-36c4-4ba4-95fe-ea6bda57cb981671224318077
+  actionid = 01d15ca8-e1d8-4f95-a2b9-d45523093cd61671226970556
   action = addbutton
   y = 14
   delayappearance = true
@@ -306,7 +306,7 @@ customization {
   fadeinspeed = 1.0
   x = -99
   width = 200
-  actionid = 7bec9823-ec74-45d5-a8a2-516efef299391671224318077
+  actionid = f7ec35cb-2975-4c45-92ea-7edf194497371671226970556
   action = addbutton
   y = -28
   delayappearance = true
@@ -324,7 +324,7 @@ customization {
   fadeinspeed = 1.0
   x = -100
   width = 200
-  actionid = 9c529fb9-b940-4d88-bf45-993a5ef311ff1671224318077
+  actionid = ad4ddc6a-9155-4e3a-be69-810d6cda94b21671226970556
   action = addbutton
   y = 37
   delayappearance = true
@@ -342,7 +342,7 @@ customization {
   fadeinspeed = 1.0
   x = -99
   width = 200
-  actionid = 786b3d15-7b1d-487e-8f79-f1ebf416222b1671224318077
+  actionid = 542ef6e9-8aec-48d8-a2d9-248ea36edc0c1671226970556
   action = addbutton
   y = -51
   delayappearance = true
@@ -396,7 +396,7 @@ customization {
   y = -40
   scale = 1.0
   alignment = left
-  value = Cruel World version 20.0.0 (6mo edition)
+  value = Cruel World version 22.0.0
 }
 
 customization {
@@ -425,7 +425,7 @@ customization {
   fadeinspeed = 1.0
   x = -108
   width = 100
-  actionid = 131dbfcd-7288-4bc3-b2c5-1f5e3dab5c1f1671224318077
+  actionid = e78f32c1-296f-44e9-b3f3-dffc186b985b1671226970557
   action = addbutton
   y = 118
   delayappearance = true
@@ -481,22 +481,6 @@ customization {
   alignment = left
   value = Welcome to CWS %playername%!
   delayappearanceeverytime = false
-}
-
-customization {
-  orientation = top-centered
-  delayappearanceseconds = 1.5
-  path = resources/mainmenu/textures/title2.png
-  fadein = true
-  fadeinspeed = 1.0
-  x = -180
-  width = 360
-  actionid = c9ed9a29-56be-4967-81dd-723ad5388a4f1629992814888
-  action = addtexture
-  y = 4
-  delayappearance = true
-  delayappearanceeverytime = false
-  height = 50
 }
 
 customization {
@@ -609,5 +593,16 @@ customization {
   scale = 1.0
   alignment = left
   value = Cruel World Survival © Gameplex Software 2022
+}
+
+customization {
+  path = resources/mainmenu/textures/title2.png
+  orientation = top-centered
+  x = -172
+  width = 344
+  actionid = bababe55-f1be-4c15-a36c-a2e190a8f32e1671226918155
+  action = addtexture
+  y = 0
+  height = 42
 }
 

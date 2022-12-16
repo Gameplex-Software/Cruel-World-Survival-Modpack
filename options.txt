@@ -13,7 +13,7 @@ maxFps:260
 fboEnable:true
 difficulty:2
 fancyGraphics:true
-ao:1
+ao:2
 renderClouds:true
 resourcePacks:[]
 incompatibleResourcePacks:[]
@@ -25,7 +25,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
-fullscreen:false
+fullscreen:true
 enableVsync:true
 useVbo:true
 hideServerAddress:false
@@ -85,8 +85,6 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
-key_Change Caster Focus:33
-key_Misc Caster Toggle:34
 key_Reload Menu | CTRL + ALT + :19
 key_Toggle Customization Overlay | CTRL + ALT + :51
 key_keybind.baublesinventory:48
@@ -148,10 +146,10 @@ key_key.dragon_fireAttack:19
 key_key.dragon_strike:34
 key_key.dragon_down:45
 key_key.dragon_change_view:65
-key_key.immersiveengineering.magnetEquip:31
-key_key.immersiveengineering.chemthrowerSwitch:0
 key_LevelUpToggle:38
 key_LevelUpSkills:48
+key_key.immersiveengineering.magnetEquip:31
+key_key.immersiveengineering.chemthrowerSwitch:0
 key_key.rotateup:200
 key_key.rotatedown:208
 key_key.rotateright:205
@@ -161,8 +159,6 @@ key_key.little.mark:50
 key_key.little.config.item:0
 key_key.little.undo:44:CONTROL
 key_key.little.redo:21:CONTROL
-key_Speak:47
-key_Gliby's Options Menu:52
 key_WorldEdit Reference:38
 key_worldeditcuife3.key.cui.options:0
 key_worldeditcuife3.key.cui.toggle.visibility:0
