@@ -46,7 +46,7 @@ customization {
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = 37
+  y = 60
 }
 
 customization {
@@ -68,9 +68,9 @@ customization {
 customization {
   identifier = %id=376382%
   orientation = mid-centered
-  x = -124
+  x = -123
   action = movebutton
-  y = -8
+  y = 4
 }
 
 customization {
@@ -240,7 +240,7 @@ customization {
   fadeinspeed = 1.0
   x = -108
   width = 100
-  actionid = 09055bdb-5a8a-4996-97fd-0e6f68c8a3a71645563907553
+  actionid = b8a7e276-913a-46d3-91a3-f686aedb3db91671224318076
   action = addbutton
   y = 95
   delayappearance = true
@@ -288,7 +288,7 @@ customization {
   fadeinspeed = 1.0
   x = 2
   width = 98
-  actionid = 52bd7b79-d7ae-4407-b513-f536ce3978281645563907554
+  actionid = 962082e0-36c4-4ba4-95fe-ea6bda57cb981671224318077
   action = addbutton
   y = 14
   delayappearance = true
@@ -305,8 +305,8 @@ customization {
   fadein = true
   fadeinspeed = 1.0
   x = -99
-  width = 98
-  actionid = 97b6846e-dcb8-49d4-ab1c-334a48d981171645563907554
+  width = 200
+  actionid = 7bec9823-ec74-45d5-a8a2-516efef299391671224318077
   action = addbutton
   y = -28
   delayappearance = true
@@ -316,37 +316,19 @@ customization {
 }
 
 customization {
-  orientation = bottom-centered
-  delayappearanceseconds = 2.1
-  buttonaction = openlink
-  label = Photo Album
-  fadein = true
-  fadeinspeed = 1.0
-  x = 3
-  width = 98
-  actionid = 86dce786-998a-42e3-a231-7d3b872659a61645563907554
-  action = addbutton
-  y = -28
-  delayappearance = true
-  value = https://www.curseforge.com/linkout?remoteUrl=https%253a%252f%252fphotos.app.goo.gl%252fC5noa5aWwPJGdsvcA
-  delayappearanceeverytime = false
-  height = 20
-}
-
-customization {
-  orientation = bottom-centered
+  orientation = mid-centered
   delayappearanceseconds = 1.9
   buttonaction = openlink
-  label = Server Status
+  label = Get A Server!
   fadein = true
   fadeinspeed = 1.0
-  x = -99
-  width = 98
-  actionid = ada4913e-37cc-486c-9d85-98aa0c2ac2321645563907554
+  x = -100
+  width = 200
+  actionid = 9c529fb9-b940-4d88-bf45-993a5ef311ff1671224318077
   action = addbutton
-  y = -51
+  y = 37
   delayappearance = true
-  value = https://gameplex-software.github.io/cwsmc/status
+  value = https://gameplexsoftware.com/rpm/
   delayappearanceeverytime = false
   height = 20
 }
@@ -358,9 +340,9 @@ customization {
   label = Player Creations
   fadein = true
   fadeinspeed = 1.0
-  x = 3
-  width = 98
-  actionid = 80306d00-883f-4603-865f-4a94a27473f71645563907554
+  x = -99
+  width = 200
+  actionid = 786b3d15-7b1d-487e-8f79-f1ebf416222b1671224318077
   action = addbutton
   y = -51
   delayappearance = true
@@ -443,7 +425,7 @@ customization {
   fadeinspeed = 1.0
   x = -108
   width = 100
-  actionid = ecd6d03f-6272-459f-95bf-83eb6d9063b61645563907555
+  actionid = 131dbfcd-7288-4bc3-b2c5-1f5e3dab5c1f1671224318077
   action = addbutton
   y = 118
   delayappearance = true
@@ -561,30 +543,12 @@ customization {
 customization {
   path = resources/overlay.png
   orientation = bottom-right
-  x = -200
-  width = 204
+  x = -244
+  width = 248
   actionid = 1df6f2ef-14c6-499b-89cf-64ec09a59e921630066294562
   action = addtexture
-  y = -16
-  height = 17
-}
-
-customization {
-  orientation = bottom-centered
-  delayappearanceseconds = 1.9
-  buttonaction = opencustomgui
-  label = Announcements
-  fadein = true
-  fadeinspeed = 1.0
-  x = -99
-  width = 200
-  actionid = e42e5482-a2b9-4c59-9c85-f3c7d7a958ab1645563907556
-  action = addbutton
-  y = -74
-  delayappearance = true
-  value = announcements
-  delayappearanceeverytime = false
-  height = 20
+  y = -25
+  height = 26
 }
 
 customization {
@@ -623,15 +587,27 @@ customization {
 
 customization {
   showname = true
-  orientation = top-left
+  orientation = mid-right
   skinpath = resources/creators/will.png
   crouching = false
-  x = 1604
+  x = -16
   slim = false
   actionid = 3d73718a-8dca-4253-a0c6-8d541e6608d21645563915073
   action = addentity
-  y = 591
+  y = 82
   scale = 15
   parrot = false
+}
+
+customization {
+  orientation = bottom-right
+  shadow = false
+  x = -241
+  actionid = d9c2e3a2-d695-48fb-8abd-8bfd2df184f71671223580441
+  action = addtext
+  y = -21
+  scale = 1.0
+  alignment = left
+  value = Cruel World Survival © Gameplex Software 2022
 }
 

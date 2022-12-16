@@ -15,7 +15,7 @@ customization {
   width = 401
   actionid = d61b22fd-8840-4d96-9b98-bb7a2c3c5ff71644320745312
   action = addtexture
-  y = -142
+  y = -141
   height = 285
 }
 
@@ -104,7 +104,7 @@ customization {
   buttonaction = opencustomgui
   x = -156
   width = 69
-  actionid = 3cde4203-95bd-40b2-8284-ea2efe88a97e1645565957585
+  actionid = a6e87d55-08d8-47bb-b9f8-332060a11ae31671223731995
   action = addbutton
   y = -66
   label = About
@@ -117,7 +117,7 @@ customization {
   buttonaction = openlink
   x = -83
   width = 69
-  actionid = 858a81e7-a4bd-4b2e-9868-ea71ef85ed831645565957586
+  actionid = f29ad7ab-3c6f-49e1-8083-6698988ad5841671223731995
   action = addbutton
   y = -66
   label = Website
@@ -128,9 +128,9 @@ customization {
 customization {
   orientation = mid-centered
   buttonaction = opencustomgui
-  x = -157
+  x = -156
   width = 69
-  actionid = 260dfc9c-804b-44f0-96a9-e579171800fd1645565957587
+  actionid = c08eba59-bba6-49df-9134-da0843fe8cba1671223731995
   action = addbutton
   y = -113
   label = About
@@ -143,7 +143,7 @@ customization {
   buttonaction = openlink
   x = -10
   width = 69
-  actionid = 457614ad-a192-47a3-8e1a-686256dd85071645565957588
+  actionid = 9ee1368a-9bdc-4df2-89ac-8037af3b8d051671223731995
   action = addbutton
   y = -66
   label = Twitter
@@ -154,24 +154,24 @@ customization {
 customization {
   orientation = mid-centered
   buttonaction = opencustomgui
-  x = -83
+  x = -156
   width = 69
-  actionid = 0fcac29f-a546-45ee-8671-5fe6de5815cd1645565957588
+  actionid = 232df177-7989-452f-b8a3-3f7fe10921791671223731995
   action = addbutton
-  y = -21
+  y = -22
   label = About
   value = about_wrytzi
   height = 19
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   buttonaction = openlink
-  x = 468
+  x = -83
   width = 69
-  actionid = f454a476-5083-47af-a5e4-d1342d0eaf741645565957589
+  actionid = 9418b2ee-8750-4bad-9a98-77b335d7dd541671223731995
   action = addbutton
-  y = 188
+  y = -113
   label = Twitch
   value = https://www.twitch.tv/liquiidtea
   height = 20
@@ -180,11 +180,11 @@ customization {
 customization {
   orientation = mid-centered
   buttonaction = openlink
-  x = -156
+  x = -83
   width = 69
-  actionid = 44ec5c7f-7d50-4622-80d5-a64daf3383591645565957589
+  actionid = 507d7bda-f64d-4cc3-a5ef-cd9005794b6f1671223731995
   action = addbutton
-  y = -21
+  y = -22
   label = Twitch
   value = https://www.twitch.tv/wrytzi
   height = 19
@@ -218,7 +218,7 @@ customization {
   buttonaction = opencustomgui
   x = -156
   width = 69
-  actionid = 49f440ca-b581-43e4-a3c0-4e6defc3a3161645565957591
+  actionid = 0eec478a-ecb1-4f58-81b7-a0d2308e68ab1671223731995
   action = addbutton
   y = 27
   label = About
@@ -231,7 +231,7 @@ customization {
   buttonaction = closegui
   x = -100
   width = 201
-  actionid = 3b9baf90-3d0f-4d44-8e61-e9e58f2163661645565957591
+  actionid = 5fd76590-841f-49ca-86e3-c4fe1ff0c5831671223731995
   action = addbutton
   y = 110
   label = Back
@@ -267,12 +267,12 @@ customization {
 
 customization {
   path = resources/creators/willface.png
-  orientation = bottom-centered
+  orientation = mid-centered
   x = -186
   width = 21
   actionid = 108c6f80-a9ec-46eb-9e6a-98508fad958f1645564983380
   action = addtexture
-  y = -191
+  y = 62
   height = 21
 }
 

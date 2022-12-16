@@ -31,13 +31,13 @@ customization {
 }
 
 customization {
-  orientation = top-left
+  orientation = bottom-left
   buttonaction = opengui
-  x = 70
+  x = 40
   width = 100
-  actionid = df2720d2-53bc-4a40-8bfd-76946a603c2f1630067170167
+  actionid = 1c170dd4-7119-4e34-888b-1ef55a4fcb261671223134939
   action = addbutton
-  y = 525
+  y = -27
   label = Back
   value = net.minecraft.client.gui.GuiMainMenu
   height = 20
