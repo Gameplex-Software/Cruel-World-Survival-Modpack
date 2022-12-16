@@ -240,7 +240,7 @@ customization {
   fadeinspeed = 1.0
   x = -108
   width = 100
-  actionid = b8a7e276-913a-46d3-91a3-f686aedb3db91671224318076
+  actionid = a000cc9c-9991-4d0d-92d5-e122c29fc24c1671227940876
   action = addbutton
   y = 95
   delayappearance = true
@@ -288,7 +288,7 @@ customization {
   fadeinspeed = 1.0
   x = 2
   width = 98
-  actionid = 962082e0-36c4-4ba4-95fe-ea6bda57cb981671224318077
+  actionid = d613fa21-a3e6-4843-9917-2fe8569a735e1671227940881
   action = addbutton
   y = 14
   delayappearance = true
@@ -306,7 +306,7 @@ customization {
   fadeinspeed = 1.0
   x = -99
   width = 200
-  actionid = 7bec9823-ec74-45d5-a8a2-516efef299391671224318077
+  actionid = d12446ea-dccd-4c73-887b-d7793043450a1671227940881
   action = addbutton
   y = -28
   delayappearance = true
@@ -324,7 +324,7 @@ customization {
   fadeinspeed = 1.0
   x = -100
   width = 200
-  actionid = 9c529fb9-b940-4d88-bf45-993a5ef311ff1671224318077
+  actionid = d6656ac5-6522-4b4c-94bd-020a84c491a71671227940881
   action = addbutton
   y = 37
   delayappearance = true
@@ -342,7 +342,7 @@ customization {
   fadeinspeed = 1.0
   x = -99
   width = 200
-  actionid = 786b3d15-7b1d-487e-8f79-f1ebf416222b1671224318077
+  actionid = 74e21c5f-ad8a-44e9-9c1a-ba392481af3f1671227940881
   action = addbutton
   y = -51
   delayappearance = true
@@ -396,7 +396,7 @@ customization {
   y = -40
   scale = 1.0
   alignment = left
-  value = Cruel World version 20.0.0 (6mo edition)
+  value = Cruel World version 22.0.0
 }
 
 customization {
@@ -425,7 +425,7 @@ customization {
   fadeinspeed = 1.0
   x = -108
   width = 100
-  actionid = 131dbfcd-7288-4bc3-b2c5-1f5e3dab5c1f1671224318077
+  actionid = 9f1970d1-a0ad-4202-830a-f4fc7c05f0c71671227940882
   action = addbutton
   y = 118
   delayappearance = true
