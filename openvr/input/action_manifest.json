@@ -1,0 +1,1145 @@
+{
+  "localization": [
+    {
+      "/actions/mod/in/key.dragon_down": "Gameplay - Dragon Down",
+      "/actions/mod/in/Toggle Customization Overlay | CTRL + ALT + ": "FancyMenu - Toggle Customization Overlay | CTRL + ALT + ",
+      "/actions/mod/in/key.jei.toggleBookmarkOverlay": "jei (Just Enough Items) - Show/Hide Bookmarked Ingredients",
+      "/actions/mod/in/Right": "FreeCam - Right",
+      "/actions/ingame/in/key.drop": "Inventory - Drop Selected Item",
+      "/actions/gui/in/vivecraft.key.guiScrollAxis": "GUI - Scroll",
+      "/actions/gui/in/vivecraft.key.guiScrollDown": "GUI - Scroll Down",
+      "/actions/mod/in/key.immersiveengineering.magnetEquip": "Gameplay - Magnetic Shield Glove (doubletap)",
+      "/actions/mod/in/worldeditcuife3.key.chunk.toggle.visibility": "WorldEdit §2CUI§f 3 - Toggle chunk visibility",
+      "/actions/ingame/in/key.back": "Movement - Walk Backwards",
+      "/actions/ingame/in/vivecraft.key.exportWorld": "Miscellaneous - Export Menu World",
+      "/actions/global/in/vivecraft.key.swapMirrorView": "Miscellaneous - Swap Mirror View",
+      "/actions/mod/in/LevelUpToggle": "key.categories.gui - LevelUpToggle",
+      "/actions/mod/in/enderio.keybind.top": "Dark Steel Armor  - The One Probe (Helmet Upgrade)",
+      "/actions/ingame/in/key.saveToolbarActivator": "Creative Mode - Save Toolbar Activator",
+      "/actions/mod/in/binniecore.key.hold.for.help.tooltips": "Binnie\u0027s Mods - Hold For Help Tooltips",
+      "/actions/global/out/lefthaptic": "Left Hand Haptic",
+      "/actions/mod/in/waila.keybind.liquid": "Waila - Show liquids",
+      "/actions/mod/in/WorldEdit Reference": "WorldEdit - WorldEdit Reference",
+      "/actions/mod/in/key.little.mark": "LittleTiles Settings - Mark Preview",
+      "/actions/ingame/in/key.forward": "Movement - Walk Forwards",
+      "/actions/ingame/in/key.togglePerspective": "Miscellaneous - Toggle Perspective",
+      "/actions/ingame/in/vivecraft.key.rotateFree": "Movement - Rotate Free",
+      "/actions/mod/in/enderio.keybind.speed": "Dark Steel Armor  - Speed",
+      "/actions/mod/in/LevelUpSkills": "key.categories.gui - LevelUpSkills",
+      "/actions/mod/in/worldeditcuife3.key.distance.toggle.visibility": "WorldEdit §2CUI§f 3 - Toggle chunk measurer",
+      "/actions/mod/in/enderio.keybind.fovplusfast": "Camera Controls - Zoom out fast",
+      "/actions/mod/in/enderio.keybind.magnet": "Tools - Toggle Electromagnet",
+      "/actions/mod/in/enderio.keybind.inventory": "Dark Steel Armor  - Open Armor Inventory",
+      "/actions/ingame/in/key.sneak": "Movement - Sneak",
+      "/actions/ingame/in/key.use": "Gameplay - Use Item/Place Block",
+      "/actions/global/in/key.inventory": "Inventory - Open/Close Inventory",
+      "/actions/ingame/in/key.playerlist": "Multiplayer - List Players",
+      "/actions/ingame/in/key.swapHands": "Inventory - Swap Item In Hands",
+      "/actions/mod/in/enderio.keybind.fovrecall": "Camera Controls - Recall Zoom Level",
+      "/actions/ingame/in/key.right": "Movement - Strafe Right",
+      "/actions/mod/in/Down": "FreeCam - Down",
+      "/actions/mod/in/Reset": "FreeCam - Reset",
+      "/actions/mod/in/key.jei.nextPage": "jei (Just Enough Items) - Show Next Page",
+      "/actions/ingame/in/key.left": "Movement - Strafe Left",
+      "/actions/gui/in/vivecraft.key.guiAlt": "GUI - Alt",
+      "/actions/ingame/in/key.smoothCamera": "Miscellaneous - Toggle Cinematic Camera",
+      "/actions/gui/in/vivecraft.key.guiRightClick": "GUI - Right Click",
+      "/actions/mod/in/Backward": "FreeCam - Backward",
+      "/actions/mod/in/key.jei.toggleCheatMode": "jei (Just Enough Items) - Toggle Cheat Mode",
+      "/actions/global": "Global",
+      "/actions/mod/in/cos.key.opencosarmorinventory": "Inventory - OpenCosmeticArmorInventory",
+      "/actions/mod/in/enderio.keybind.jump": "Dark Steel Armor  - Jump",
+      "/actions/ingame/in/vivecraft.key.walkabout": "Movement - Walkabout",
+      "/actions/mod/in/key.dragon_fireAttack": "Gameplay - Dragon Breath",
+      "/actions/mod/in/key.rotatedown": "LittleTiles Settings - Rotate down",
+      "/actions/mod/in/key.ebwizardry.spell_1": "Wizardry - Spell Slot 1",
+      "/actions/mod/in/key.ebwizardry.spell_2": "Wizardry - Spell Slot 2",
+      "/actions/mod/in/key.ebwizardry.spell_3": "Wizardry - Spell Slot 3",
+      "/actions/ingame/in/vivecraft.key.toggleMovement": "Movement - Toggle Movement Mode",
+      "/actions/mod/in/key.ebwizardry.spell_4": "Wizardry - Spell Slot 4",
+      "/actions/mod/in/key.jei.showRecipe": "jei (Just Enough Items) - Show Recipe",
+      "/actions/mod/in/key.ebwizardry.spell_5": "Wizardry - Spell Slot 5",
+      "/actions/mod/in/worldeditcuife3.key.cui.toggle.visibility": "WorldEdit §2CUI§f 3 - Toggle CUI visibility",
+      "/actions/mod/in/waila.keybind.usage": "Waila - Show usage",
+      "/actions/mod/in/key.ebwizardry.spell_6": "Wizardry - Spell Slot 6",
+      "/actions/mod/in/enderio.keybind.fovunreset": "Camera Controls - Revert Zoom (undo reset)",
+      "/actions/mod/in/key.little.undo": "LittleTiles Settings - Undo",
+      "/actions/mod/in/key.ebwizardry.spell_7": "Wizardry - Spell Slot 7",
+      "/actions/mod/in/key.ebwizardry.spell_8": "Wizardry - Spell Slot 8",
+      "/actions/ingame/in/key.jump": "Movement - Jump",
+      "/actions/ingame/in/key.pickItem": "Gameplay - Pick Block",
+      "/actions/mod/in/enderio.keybind.fovreset": "Camera Controls - Reset Zoom",
+      "/actions/mod/in/key.jei.focusSearch": "jei (Just Enough Items) - Select Search Bar",
+      "/actions/mod/in/key.little.config.item": "LittleTiles Settings - Configure Tool",
+      "/actions/mod/in/key.mod_lavacow.special": "Fish\u0027s Undead Rising - Mount Special Ability",
+      "/actions/mod/in/enderio.keybind.fovstore": "Camera Controls - Store Zoom Level",
+      "/actions/global/out/righthaptic": "Right Hand Haptic",
+      "/actions/mod/in/key.ebwizardry.next_spell": "Wizardry - Next Spell",
+      "/actions/technical/in/vivecraft.key.trackpadTouch": "Miscellaneous - Trackpad Touch",
+      "/actions/ingame/in/key.sprint": "Movement - Sprint",
+      "/actions/mod/in/key.jei.toggleEditMode": "jei (Just Enough Items) - Toggle Hide/Edit Mode",
+      "/actions/mod/in/enderio.keybind.dsu": "Dark Steel Armor  - Open Dark Steel Upgrade Inventory",
+      "language_tag": "en_US",
+      "/actions/gui": "GUI",
+      "/actions/gui/in/vivecraft.key.guiMiddleClick": "GUI - Middle Click",
+      "/actions/mod/in/enderio.keybind.fovminus": "Camera Controls - Zoom in",
+      "/actions/mod/in/key.ancientspellcraft.charm_ring_2_activate": "Ancient Spellcraft - Activate Ring 1 Bauble",
+      "/actions/mod/in/key.little.redo": "LittleTiles Settings - Redo",
+      "/actions/mod/in/key.rotateright": "LittleTiles Settings - Rotate right",
+      "/actions/mod/in/key.jei.showUses": "jei (Just Enough Items) - Show Uses",
+      "/actions/ingame/in/vivecraft.key.freeMoveStrafe": "Movement - Move/Strafe",
+      "/actions/ingame/in/vivecraft.key.rotateLeft": "Movement - Rotate Left",
+      "/actions/gui/in/vivecraft.key.guiShift": "GUI - Shift",
+      "/actions/ingame/in/key.fullscreen": "Miscellaneous - Toggle Fullscreen",
+      "/actions/mod/in/key.mclib.dashboard": "McLib - Dashboard",
+      "/actions/global/in/lefthand": "Left Hand Pose",
+      "/actions/mixedreality/in/externalcamera": "External Camera",
+      "/actions/mod/in/enderio.keybind.stepassist": "Dark Steel Armor  - Step Assist",
+      "/actions/ingame/in/vivecraft.key.hotbarNext": "Inventory - Hotbar Next",
+      "/actions/ingame/in/vivecraft.key.hotbarSwipeX": "Inventory - Hotbar Swipe (Left/Right)",
+      "/actions/mod/in/enderio.keybind.glidertoggle": "Dark Steel Armor  - Glider/Elytra",
+      "/actions/ingame/in/vivecraft.key.hotbarSwipeY": "Inventory - Hotbar Swipe (Up/Down)",
+      "/actions/ingame/in/vivecraft.key.rotateRight": "Movement - Rotate Right",
+      "/actions/ingame/in/vivecraft.key.teleport": "Movement - Teleport",
+      "/actions/keyboard": "Keyboard",
+      "/actions/mod/in/Up": "FreeCam - Up",
+      "/actions/mod/in/key.jei.recipeBack": "jei (Just Enough Items) - Show Previously Viewed Recipe",
+      "/actions/mod/in/key.toggle_shaders": "p455w0rd\u0027s Library - Toggle Colored Light Shaders",
+      "/actions/gui/in/vivecraft.key.guiScrollUp": "GUI - Scroll Up",
+      "/actions/ingame/in/vivecraft.key.radialMenu": "Game Interface - Open Radial Menu",
+      "/actions/mod/in/key.dragon_change_view": "Miscellaneous - Change 3rd person camera for dragon",
+      "/actions/mod/in/key.rotateup": "LittleTiles Settings - Rotate up",
+      "/actions/global/in/vivecraft.key.toggleKeyboard": "Game Interface - Show/Hide Keyboard",
+      "/actions/contextual/in/vivecraft.key.vrInteract": "Gameplay - Contextual Interact",
+      "/actions/mod/in/keybind.baublesinventory": "Inventory - Baubles Inventory",
+      "/actions/technical": "Technical",
+      "/actions/ingame/in/vivecraft.key.hotbarScroll": "Inventory - Hotbar Scroll",
+      "/actions/ingame/in/vivecraft.key.freeMoveRotate": "Movement - Move/Rotate",
+      "/actions/mod/in/key.dragon_strike": "Gameplay - Dragon Strike",
+      "/actions/mod/in/key.jei.toggleOverlay": "jei (Just Enough Items) - Show/Hide JEI",
+      "/actions/mod/in/key.ancientspellcraft.charm_bauble_activate": "Ancient Spellcraft - Activate Charm Bauble",
+      "/actions/ingame/in/vivecraft.key.togglePlayerList": "Multiplayer - Toggle Player List",
+      "/actions/mod/in/waila.keybind.wailaconfig": "Waila - Config screen",
+      "/actions/mod": "Modded",
+      "/actions/mod/in/enderio.keybind.yetawrenchmode": "Tools - Yeta Wrench Mode",
+      "/actions/ingame/in/key.command": "Multiplayer - Open Command",
+      "/actions/ingame/in/key.spectatorOutlines": "Miscellaneous - Highlight Players (Spectators)",
+      "/actions/mod/in/enderio.keybind.soundlocator": "Dark Steel Armor  - Sound Locator",
+      "/actions/mod/in/Forward": "FreeCam - Forward",
+      "/actions/ingame/in/key.hotbar.1": "Inventory - Hotbar Slot 1",
+      "/actions/contextual/in/vivecraft.key.climbeyJump": "Climbey Motion - Jump Boots",
+      "/actions/ingame/in/key.hotbar.5": "Inventory - Hotbar Slot 5",
+      "/actions/ingame/in/key.hotbar.4": "Inventory - Hotbar Slot 4",
+      "/actions/mod/in/enderio.keybind.nightvision": "Dark Steel Armor  - Night Vision",
+      "/actions/ingame/in/key.hotbar.3": "Inventory - Hotbar Slot 3",
+      "/actions/mod/in/Left": "FreeCam - Left",
+      "/actions/ingame/in/key.hotbar.2": "Inventory - Hotbar Slot 2",
+      "/actions/ingame/in/key.hotbar.9": "Inventory - Hotbar Slot 9",
+      "/actions/ingame/in/key.hotbar.8": "Inventory - Hotbar Slot 8",
+      "/actions/ingame/in/key.hotbar.7": "Inventory - Hotbar Slot 7",
+      "/actions/ingame/in/key.hotbar.6": "Inventory - Hotbar Slot 6",
+      "/actions/ingame/in/key.attack": "Gameplay - Attack/Destroy",
+      "/actions/ingame/in/vivecraft.key.quickTorch": "Gameplay - Quick Torch",
+      "/actions/mod/in/key.xu2.searchforitems": "Extra Utilities 2 - Search Nearby Inventories for Item",
+      "/actions/ingame": "In-Game",
+      "/actions/gui/in/vivecraft.key.guiCtrl": "GUI - Ctrl",
+      "/actions/global/in/key.chat": "Multiplayer - Open Chat",
+      "/actions/mod/in/key.immersiveradialmenu.opentoolbox": "key.immersiveradialmenu.category - key.immersiveradialmenu.opentoolbox",
+      "/actions/ingame/in/vivecraft.key.hotbarPrev": "Inventory - Hotbar Previous",
+      "/actions/keyboard/in/vivecraft.key.keyboardClick": "Keyboard - Click",
+      "/actions/ingame/in/key.loadToolbarActivator": "Creative Mode - Load Toolbar Activator",
+      "/actions/mod/in/enderio.keybind.fovminusfast": "Camera Controls - Zoom in fast",
+      "/actions/mod/in/key.jei.previousPage": "jei (Just Enough Items) - Show Previous Page",
+      "/actions/mod/in/enderio.keybind.gogglesofrevealing": "Dark Steel Armor  - Goggles of Revealing",
+      "/actions/mod/in/Reload Menu | CTRL + ALT + ": "FancyMenu - Reload Menu | CTRL + ALT + ",
+      "/actions/contextual/in/vivecraft.key.climbeyGrab": "Climbey Motion - Climb Claws",
+      "/actions/global/in/vivecraft.key.ingameMenuButton": "Game Interface - Game Menu",
+      "/actions/mod/in/worldeditcuife3.key.cui.clear.selection": "WorldEdit §2CUI§f 3 - Clear WorldEdit selection",
+      "/actions/mod/in/of.key.zoom": "Miscellaneous - Zoom",
+      "/actions/mod/in/worldeditcuife3.key.cui.options": "WorldEdit §2CUI§f 3 - Options",
+      "/actions/ingame/in/key.screenshot": "Miscellaneous - Take Screenshot",
+      "/actions/mod/in/key.little.flip": "LittleTiles Settings - Flip Preview",
+      "/actions/mod/in/key.immersiveengineering.chemthrowerSwitch": "Gameplay - Switch Chemthrower Tanks",
+      "/actions/global/in/vivecraft.key.moveThirdPersonCam": "Miscellaneous - Move Third Person Camera",
+      "/actions/mod/in/Scene3 start_pause": "Gameplay - Scene3 start/pause",
+      "/actions/mod/in/Scene1 start_pause": "Gameplay - Scene1 start/pause",
+      "/actions/mod/in/Open Wallet": "Calemi\u0027s Utils - Open Wallet",
+      "/actions/mod/in/key.toggle_focus.desc": "Applied Energistics 2 - Toggle search box focus",
+      "/actions/mod/in/key.ancientspellcraft.charm_ring_1_activate": "Ancient Spellcraft - Activate Ring 1 Bauble",
+      "/actions/mod/in/Scene reset": "Gameplay - Scene reset",
+      "/actions/mod/in/key.betterHud.open": "Miscellaneous - Open Better HUD Menu",
+      "/actions/ingame/in/vivecraft.key.teleportFallback": "Movement - Walk Forwards When Teleport Disabled",
+      "/actions/mod/in/waila.keybind.wailadisplay": "Waila - Show/Hide",
+      "/actions/mod/in/Scene2 start_pause": "Gameplay - Scene2 start/pause",
+      "/actions/gui/in/vivecraft.key.guiLeftClick": "GUI - Left Click",
+      "/actions/keyboard/in/vivecraft.key.keyboardShift": "Keyboard - Shift",
+      "/actions/mod/in/Enable _ Disable": "FreeCam - Enable / Disable",
+      "/actions/mod/in/Dynamic Lights toggle": "Gameplay - Dynamic Lights toggle",
+      "/actions/global/in/righthand": "Right Hand Pose",
+      "/actions/mod/in/key.ebwizardry.previous_spell": "Wizardry - Previous Spell",
+      "/actions/mod/in/enderio.keybind.tnt": "Dark Steel Armor  - Explosive",
+      "/actions/mixedreality": "Mixed Reality",
+      "/actions/ingame/in/vivecraft.key.rotateAxis": "Movement - Rotate Only",
+      "/actions/mod/in/waila.keybind.recipe": "Waila - Show recipe",
+      "/actions/mod/in/enderio.keybind.fovplus": "Camera Controls - Zoom out",
+      "/actions/ingame/in/key.advancements": "Miscellaneous - Advancements",
+      "/actions/contextual": "Contextual",
+      "/actions/mod/in/Quest Log": "Gameplay - Quest Log",
+      "/actions/mod/in/key.cofh.multimode": "CoFH Keys - Cycle Item Mode",
+      "/actions/mod/in/key.rotateleft": "LittleTiles Settings - Rotate left",
+      "/actions/mod/in/key.jei.bookmark": "jei (Just Enough Items) - Add/Remove a Bookmarked Ingredient"
+    }
+  ],
+  "default_bindings": [
+    {
+      "controller_type": "vive_controller",
+      "binding_url": "vive_defaults.json"
+    },
+    {
+      "controller_type": "oculus_touch",
+      "binding_url": "oculus_defaults.json"
+    },
+    {
+      "controller_type": "holographic_controller",
+      "binding_url": "wmr_defaults.json"
+    },
+    {
+      "controller_type": "knuckles",
+      "binding_url": "knuckles_defaults.json"
+    },
+    {
+      "controller_type": "vive_cosmos_controller",
+      "binding_url": "cosmos_defaults.json"
+    },
+    {
+      "controller_type": "vive_tracker_camera",
+      "binding_url": "tracker_defaults.json"
+    }
+  ],
+  "actions": [
+    {
+      "name": "/actions/ingame/in/key.jump",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.freeMoveRotate",
+      "requirement": "optional",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.freeMoveStrafe",
+      "requirement": "optional",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.rotateFree",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.rotateLeft",
+      "requirement": "optional",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.rotateAxis",
+      "requirement": "optional",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.rotateRight",
+      "requirement": "optional",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/ingame/in/key.sneak",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.sprint",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.left",
+      "requirement": "optional",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/ingame/in/key.right",
+      "requirement": "optional",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.teleport",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.toggleMovement",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.back",
+      "requirement": "optional",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/ingame/in/key.forward",
+      "requirement": "optional",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.teleportFallback",
+      "requirement": "suggested",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.walkabout",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.attack",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/contextual/in/vivecraft.key.vrInteract",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.dragon_fireAttack",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.dragon_down",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.dragon_strike",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Dynamic Lights toggle",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.immersiveengineering.magnetEquip",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.pickItem",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Quest Log",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.quickTorch",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Scene reset",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Scene1 start_pause",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Scene2 start_pause",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Scene3 start_pause",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.immersiveengineering.chemthrowerSwitch",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.use",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/keybind.baublesinventory",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.drop",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.hotbarNext",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.hotbarPrev",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.hotbarScroll",
+      "requirement": "optional",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.1",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.2",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.3",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.4",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.5",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.6",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.7",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.8",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.9",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.hotbarSwipeX",
+      "requirement": "optional",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.hotbarSwipeY",
+      "requirement": "optional",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/global/in/key.inventory",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/cos.key.opencosarmorinventory",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.swapHands",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.loadToolbarActivator",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.saveToolbarActivator",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.playerlist",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/global/in/key.chat",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.command",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.togglePlayerList",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/global/in/vivecraft.key.ingameMenuButton",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.radialMenu",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/global/in/vivecraft.key.toggleKeyboard",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.advancements",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.dragon_change_view",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.exportWorld",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.spectatorOutlines",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/global/in/vivecraft.key.moveThirdPersonCam",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.betterHud.open",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/global/in/vivecraft.key.swapMirrorView",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.screenshot",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.smoothCamera",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.fullscreen",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.togglePerspective",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/technical/in/vivecraft.key.trackpadTouch",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/of.key.zoom",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiAlt",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiCtrl",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiLeftClick",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiMiddleClick",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiRightClick",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiScrollAxis",
+      "requirement": "optional",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiScrollDown",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiScrollUp",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiShift",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/contextual/in/vivecraft.key.climbeyGrab",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/contextual/in/vivecraft.key.climbeyJump",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/keyboard/in/vivecraft.key.keyboardClick",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/keyboard/in/vivecraft.key.keyboardShift",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.ancientspellcraft.charm_bauble_activate",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.ancientspellcraft.charm_ring_2_activate",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.ancientspellcraft.charm_ring_1_activate",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.toggle_focus.desc",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/binniecore.key.hold.for.help.tooltips",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Open Wallet",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/enderio.keybind.fovrecall",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/enderio.keybind.fovreset",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/enderio.keybind.fovunreset",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/enderio.keybind.fovstore",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/enderio.keybind.fovminus",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/enderio.keybind.fovminusfast",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/enderio.keybind.fovplus",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/enderio.keybind.fovplusfast",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.cofh.multimode",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/enderio.keybind.tnt",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/enderio.keybind.glidertoggle",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/enderio.keybind.gogglesofrevealing",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/enderio.keybind.jump",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/enderio.keybind.nightvision",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/enderio.keybind.inventory",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/enderio.keybind.dsu",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/enderio.keybind.soundlocator",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/enderio.keybind.speed",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/enderio.keybind.stepassist",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/enderio.keybind.top",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.xu2.searchforitems",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Reload Menu | CTRL + ALT + ",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Toggle Customization Overlay | CTRL + ALT + ",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.mod_lavacow.special",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Backward",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Down",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Enable _ Disable",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Forward",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Left",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Reset",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Right",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Up",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.little.config.item",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.little.flip",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.little.mark",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.little.redo",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.rotatedown",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.rotateleft",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.rotateright",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.rotateup",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.little.undo",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.mclib.dashboard",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/enderio.keybind.magnet",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/enderio.keybind.yetawrenchmode",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/waila.keybind.wailaconfig",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/waila.keybind.liquid",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/waila.keybind.recipe",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/waila.keybind.usage",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/waila.keybind.wailadisplay",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.ebwizardry.next_spell",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.ebwizardry.previous_spell",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.ebwizardry.spell_1",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.ebwizardry.spell_2",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.ebwizardry.spell_3",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.ebwizardry.spell_4",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.ebwizardry.spell_5",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.ebwizardry.spell_6",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.ebwizardry.spell_7",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.ebwizardry.spell_8",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/WorldEdit Reference",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/worldeditcuife3.key.cui.clear.selection",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/worldeditcuife3.key.cui.options",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/worldeditcuife3.key.cui.toggle.visibility",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/worldeditcuife3.key.distance.toggle.visibility",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/worldeditcuife3.key.chunk.toggle.visibility",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jei.bookmark",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jei.focusSearch",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jei.nextPage",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jei.previousPage",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jei.recipeBack",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jei.showRecipe",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jei.showUses",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jei.toggleBookmarkOverlay",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jei.toggleOverlay",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jei.toggleCheatMode",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jei.toggleEditMode",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/LevelUpSkills",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/LevelUpToggle",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.immersiveradialmenu.opentoolbox",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.toggle_shaders",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/global/in/lefthand",
+      "requirement": "suggested",
+      "type": "pose"
+    },
+    {
+      "name": "/actions/global/in/righthand",
+      "requirement": "suggested",
+      "type": "pose"
+    },
+    {
+      "name": "/actions/mixedreality/in/externalcamera",
+      "requirement": "optional",
+      "type": "pose"
+    },
+    {
+      "name": "/actions/global/out/lefthaptic",
+      "requirement": "suggested",
+      "type": "vibration"
+    },
+    {
+      "name": "/actions/global/out/righthaptic",
+      "requirement": "suggested",
+      "type": "vibration"
+    }
+  ],
+  "action_sets": [
+    {
+      "name": "/actions/ingame",
+      "usage": "leftright"
+    },
+    {
+      "name": "/actions/gui",
+      "usage": "leftright"
+    },
+    {
+      "name": "/actions/global",
+      "usage": "leftright"
+    },
+    {
+      "name": "/actions/mod",
+      "usage": "leftright"
+    },
+    {
+      "name": "/actions/contextual",
+      "usage": "single"
+    },
+    {
+      "name": "/actions/keyboard",
+      "usage": "hidden"
+    },
+    {
+      "name": "/actions/mixedreality",
+      "usage": "hidden"
+    },
+    {
+      "name": "/actions/technical",
+      "usage": "hidden"
+    }
+  ]
+}
